@@ -1,0 +1,152 @@
+@font-face {
+    font-family: "OpenSans-Regular";
+    src: url("../fonts/../fonts/OpenSans/OpenSans-Regular.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "OpenSans-SemiBold";
+    src: url("../fonts/OpenSans/OpenSans-SemiBold.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "OpenSans-Bold";
+    src: url("../fonts/OpenSans/OpenSans-Bold.ttf");
+    font-display: swap;
+}
+
+@font-face {
+    font-family: "OpenSans-Light";
+    src: url("../fonts/OpenSans/OpenSans-Light.ttf");
+    font-display: swap;
+}
+
+body {
+    overflow-x: hidden;
+    font-family: "OpenSans-Regular";
+    color: white;
+}
+
+.fa-facebook-f {
+    color: white;
+}
+
+.fa-pinterest {
+    color: white;
+}
+
+.fa-instagram {
+    color: white;
+}
+
+.fa-twitter {
+    color: white;
+}
+
+.fa-google-plus-g {
+    color: white;
+}
+
+.favicon-list {
+    display: flex;
+    font-size: 12px;
+}
+
+.favicon-list>li {
+    padding-right: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
